@@ -8,3 +8,5 @@ Just wrapped up my first AI project—and I’m hooked! 🚀
 
 
 Biggest takeaway? You don’t need to be a coding expert to start with AI! #AI #ComputerVision #DataScience #NoCode
+
+![Demo of the Bin Rack Detector](GIF.gif)
