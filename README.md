@@ -13,10 +13,14 @@ Biggest takeaway? You don’t need to be a coding expert to start with AI! #AI #
 How I Detected Bins/Racks and Logged Data Like a Pro (With Zero Coding Experience!)
 
 
-- Tools I Used
+- Tools I Used:
+  
 Google Images: Free photos of warehouse bins/racks.
+
 Teachable Machine (by Google): Train AI models without code.
+
 Google Colab: Free coding platform (no installs).
+
 SQLite: Simple database built into Python.
 
 
